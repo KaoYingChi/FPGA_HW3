@@ -1,0 +1,215 @@
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "ppl.ngc" ppl.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o ppl_map.ncd ppl.ngd ppl.pcf 
+par -w -intstyle ise -ol high -mt off ppl_map.ncd ppl.ncd ppl.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml ppl.twx ppl.ncd -o ppl.twr ppl.pcf 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "ppl.ngc" ppl.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o ppl_map.ncd ppl.ngd ppl.pcf 
+par -w -intstyle ise -ol high -mt off ppl_map.ncd ppl.ncd ppl.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml ppl.twx ppl.ncd -o ppl.twr ppl.pcf 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "ppl.ngc" ppl.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o ppl_map.ncd ppl.ngd ppl.pcf 
+par -w -intstyle ise -ol high -mt off ppl_map.ncd ppl.ncd ppl.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml ppl.twx ppl.ncd -o ppl.twr ppl.pcf 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "ppl.ngc" ppl.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o ppl_map.ncd ppl.ngd ppl.pcf 
+par -w -intstyle ise -ol high -mt off ppl_map.ncd ppl.ncd ppl.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml ppl.twx ppl.ncd -o ppl.twr ppl.pcf 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "ppl.ngc" ppl.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o ppl_map.ncd ppl.ngd ppl.pcf 
+par -w -intstyle ise -ol high -mt off ppl_map.ncd ppl.ncd ppl.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml ppl.twx ppl.ncd -o ppl.twr ppl.pcf 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "ppl.ngc" ppl.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o ppl_map.ncd ppl.ngd ppl.pcf 
+par -w -intstyle ise -ol high -mt off ppl_map.ncd ppl.ncd ppl.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml ppl.twx ppl.ncd -o ppl.twr ppl.pcf 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "ppl.ngc" ppl.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o ppl_map.ncd ppl.ngd ppl.pcf 
+par -w -intstyle ise -ol high -mt off ppl_map.ncd ppl.ncd ppl.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml ppl.twx ppl.ncd -o ppl.twr ppl.pcf 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "ppl.ngc" ppl.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o ppl_map.ncd ppl.ngd ppl.pcf 
+par -w -intstyle ise -ol high -mt off ppl_map.ncd ppl.ncd ppl.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml ppl.twx ppl.ncd -o ppl.twr ppl.pcf 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "ppl.ngc" ppl.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o ppl_map.ncd ppl.ngd ppl.pcf 
+par -w -intstyle ise -ol high -mt off ppl_map.ncd ppl.ncd ppl.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml ppl.twx ppl.ncd -o ppl.twr ppl.pcf 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "ppl.ngc" ppl.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o ppl_map.ncd ppl.ngd ppl.pcf 
+par -w -intstyle ise -ol high -mt off ppl_map.ncd ppl.ncd ppl.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml ppl.twx ppl.ncd -o ppl.twr ppl.pcf 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "ppl.ngc" ppl.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o ppl_map.ncd ppl.ngd ppl.pcf 
+par -w -intstyle ise -ol high -mt off ppl_map.ncd ppl.ncd ppl.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml ppl.twx ppl.ncd -o ppl.twr ppl.pcf 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "ppl.ngc" ppl.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o ppl_map.ncd ppl.ngd ppl.pcf 
+par -w -intstyle ise -ol high -mt off ppl_map.ncd ppl.ncd ppl.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml ppl.twx ppl.ncd -o ppl.twr ppl.pcf 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "ppl.ngc" ppl.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o ppl_map.ncd ppl.ngd ppl.pcf 
+par -w -intstyle ise -ol high -mt off ppl_map.ncd ppl.ncd ppl.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml ppl.twx ppl.ncd -o ppl.twr ppl.pcf 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "ppl.ngc" ppl.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o ppl_map.ncd ppl.ngd ppl.pcf 
+par -w -intstyle ise -ol high -mt off ppl_map.ncd ppl.ncd ppl.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml ppl.twx ppl.ncd -o ppl.twr ppl.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -bm TEST_3.bmm -p xc7a100t-csg324-3 "ppl.ngc" ppl.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o ppl_map.ncd ppl.ngd ppl.pcf 
+par -w -intstyle ise -ol high -mt off ppl_map.ncd ppl.ncd ppl.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml ppl.twx ppl.ncd -o ppl.twr ppl.pcf 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -bm TEST_3.bmm -p xc7a100t-csg324-3 "ppl.ngc" ppl.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o ppl_map.ncd ppl.ngd ppl.pcf 
+par -w -intstyle ise -ol high -mt off ppl_map.ncd ppl.ncd ppl.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml ppl.twx ppl.ncd -o ppl.twr ppl.pcf 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -bm TEST_3.bmm -p xc7a100t-csg324-3 "ppl.ngc" ppl.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o ppl_map.ncd ppl.ngd ppl.pcf 
+par -w -intstyle ise -ol high -mt off ppl_map.ncd ppl.ncd ppl.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml ppl.twx ppl.ncd -o ppl.twr ppl.pcf 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -bm TEST_3.bmm -p xc7a100t-csg324-3 "ppl.ngc" ppl.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o ppl_map.ncd ppl.ngd ppl.pcf 
+par -w -intstyle ise -ol high -mt off ppl_map.ncd ppl.ncd ppl.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml ppl.twx ppl.ncd -o ppl.twr ppl.pcf 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -bm TEST_3.bmm -p xc7a100t-csg324-3 "ppl.ngc" ppl.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o ppl_map.ncd ppl.ngd ppl.pcf 
+par -w -intstyle ise -ol high -mt off ppl_map.ncd ppl.ncd ppl.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml ppl.twx ppl.ncd -o ppl.twr ppl.pcf 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/test 2/test/school_3/ppball/ppl.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -bm TEST_3.bmm -p xc7a100t-csg324-3 "ppl.ngc" ppl.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o ppl_map.ncd ppl.ngd ppl.pcf 
+par -w -intstyle ise -ol high -mt off ppl_map.ncd ppl.ncd ppl.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml ppl.twx ppl.ncd -o ppl.twr ppl.pcf 
+xst -intstyle ise -ifn "C:/Users/User/Desktop/school_3/ppball/ppl.xst" -ofn "C:/Users/User/Desktop/school_3/ppball/ppl.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -bm TEST_3.bmm -p xc7a100t-csg324-3 ppl.ngc ppl.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o ppl_map.ncd ppl.ngd ppl.pcf 
+par -w -intstyle ise -ol high -mt off ppl_map.ncd ppl.ncd ppl.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml ppl.twx ppl.ncd -o ppl.twr ppl.pcf 
+xst -intstyle ise -ifn "C:/Users/User/Desktop/school_3/ppball/ppl.xst" -ofn "C:/Users/User/Desktop/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/User/Desktop/school_3/ppball/ppl.xst" -ofn "C:/Users/User/Desktop/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/User/Desktop/school_3/ppball/ppl.xst" -ofn "C:/Users/User/Desktop/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/User/Desktop/school_3/ppball/ppl.xst" -ofn "C:/Users/User/Desktop/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/User/Desktop/school_3/ppball/ppl.xst" -ofn "C:/Users/User/Desktop/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/User/Desktop/school_3/ppball/ppl.xst" -ofn "C:/Users/User/Desktop/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/User/Desktop/school_3/ppball/ppl.xst" -ofn "C:/Users/User/Desktop/school_3/ppball/ppl.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -bm TEST_3.bmm -p xc7a100t-csg324-3 ppl.ngc ppl.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o ppl_map.ncd ppl.ngd ppl.pcf 
+par -w -intstyle ise -ol high -mt off ppl_map.ncd ppl.ncd ppl.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml ppl.twx ppl.ncd -o ppl.twr ppl.pcf 
+xst -intstyle ise -ifn "C:/Users/User/Desktop/school_3/ppball/ppl.xst" -ofn "C:/Users/User/Desktop/school_3/ppball/ppl.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -bm TEST_3.bmm -p xc7a100t-csg324-3 ppl.ngc ppl.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o ppl_map.ncd ppl.ngd ppl.pcf 
+par -w -intstyle ise -ol high -mt off ppl_map.ncd ppl.ncd ppl.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml ppl.twx ppl.ncd -o ppl.twr ppl.pcf 
+xst -intstyle ise -ifn "C:/Users/User/Desktop/school_3/ppball/ppl.xst" -ofn "C:/Users/User/Desktop/school_3/ppball/ppl.syr" 
+xst -intstyle ise -ifn "C:/Users/User/Desktop/school_3/ppball/ppl.xst" -ofn "C:/Users/User/Desktop/school_3/ppball/ppl.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -bm TEST_3.bmm -p xc7a100t-csg324-3 ppl.ngc ppl.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o ppl_map.ncd ppl.ngd ppl.pcf 
+par -w -intstyle ise -ol high -mt off ppl_map.ncd ppl.ncd ppl.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml ppl.twx ppl.ncd -o ppl.twr ppl.pcf 
+xst -intstyle ise -ifn "C:/Users/User/Desktop/school_3/ppball/ppl.xst" -ofn "C:/Users/User/Desktop/school_3/ppball/ppl.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -bm TEST_3.bmm -p xc7a100t-csg324-3 ppl.ngc ppl.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o ppl_map.ncd ppl.ngd ppl.pcf 
+par -w -intstyle ise -ol high -mt off ppl_map.ncd ppl.ncd ppl.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml ppl.twx ppl.ncd -o ppl.twr ppl.pcf 
+xst -intstyle ise -ifn "C:/Users/User/Desktop/school_3/ppball/ppl.xst" -ofn "C:/Users/User/Desktop/school_3/ppball/ppl.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -bm TEST_3.bmm -p xc7a100t-csg324-3 ppl.ngc ppl.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o ppl_map.ncd ppl.ngd ppl.pcf 
+par -w -intstyle ise -ol high -mt off ppl_map.ncd ppl.ncd ppl.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml ppl.twx ppl.ncd -o ppl.twr ppl.pcf 
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/school_3/ppball/ppl.xst" -ofn "C:/Users/USER/Desktop/school_3/ppball/ppl.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -bm TEST_3.bmm -p xc7a100t-csg324-3 ppl.ngc ppl.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o ppl_map.ncd ppl.ngd ppl.pcf 
+par -w -intstyle ise -ol high -mt off ppl_map.ncd ppl.ncd ppl.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml ppl.twx ppl.ncd -o ppl.twr ppl.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 ppl.ngc ppl.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o ppl_map.ncd ppl.ngd ppl.pcf 
+par -w -intstyle ise -ol high -mt off ppl_map.ncd ppl.ncd ppl.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml ppl.twx ppl.ncd -o ppl.twr ppl.pcf 
